@@ -1,4 +1,4 @@
 _resources/
 .nextflow
-.nextflow.log
+.*log.*
 work
