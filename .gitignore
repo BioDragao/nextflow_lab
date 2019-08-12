@@ -1,1 +1,4 @@
 _resources/
+.nextflow
+.nextflow.log
+work
